@@ -1,0 +1,67 @@
+body {
+    background-color: grey;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: white;
+    text-decoration: underline solid;
+    text-align: center;
+    background-color: black;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 2em;
+}
+
+form {
+    color: black;
+    text-decoration: underline solid;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 1em;
+    width: 8em;
+    text-align: right;
+    font-weight: bold;
+}
+
+button {
+    background-color: #adacad;
+    color: black;
+    font-size: 1.2em;
+    padding: .2em;
+    padding-left: .2em;
+    padding-right: .2em;
+    border: white solid 2px;
+    margin-bottom: 100em;
+}
+
+button:hover {
+    background-color: black;
+    color: #adacad;
+    font-size: 1.2em;
+    padding: .2em;
+    padding-left: .2em;
+    padding-right: .2em;
+    border: black solid 2px;
+    transition-duration: .5s;
+}
+
+div {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+footer {
+    background-color: black;
+    margin-top: 5px;
+    padding: 4px;
+    font-size: .5em;
+    margin-top: 5px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
